@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Royal Crest Wardrobe",
+    "description": "Elegant storage with a contemporary design.",
+    "image": "/images/wardrobe1.png"
+  },
+  {
+    "id": 2,
+    "title": "Imperial Oak Wardrobe",
+    "description": "Premium finish for sophisticated interiors.",
+    "image": "/images/wardrobe2.png"
+  },
+  {
+    "id": 3,
+    "title": "Majestic Haven Wardrobe",
+    "description": "Timeless craftsmanship and functionality.",
+    "image": "/images/wardrobe3.png"
+  },
+  {
+    "id": 4,
+    "title": "Regal Luxe Wardrobe",
+    "description": "Timeless craftsmanship and functionality.",
+    "image": "/images/wardrobe4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Monarch Elite Wardrobe",
+    "description": "Timeless craftsmanship and functionality.",
+    "image": "/images/wardrobe5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Grand Vista Wardrobe",
+    "description": "Timeless craftsmanship and functionality.",
+    "image": "/images/wardrobe6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Velvet Crown Wardrobe",
+    "description": "Timeless craftsmanship and functionality.",
+    "image": "/images/wardrobe7.png"
+  },
+  {
+    "id": 8,
+    "title": "Prestige Prime Wardrobe",
+    "description": "Timeless craftsmanship and functionality.",
+    "image": "/images/wardrobe8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Aurora Signature Wardrobe",
+    "description": "Timeless craftsmanship and functionality.",
+    "image": "/images/wardrobe9.jpg"
+  }
+]

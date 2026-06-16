@@ -1,0 +1,35 @@
+[
+   
+    {
+        "id": 1,
+        "material": "MDF (Medium-Density Fiberboard)",
+        "description": "Manufactured wood fibers compressed into boards.",
+        "image": "/images/mdf.jpg",
+        "features": [
+            "Smooth surface",
+            "Easy to paint",
+            "Affordable"
+        ]
+    },
+    {
+        "id": 2,
+        "material": "Particle Board",
+        "description": "Wood chips and resin compressed into sheets.",
+        "image": "/images/particle.jpg",
+        "features": [
+            "Lightweight",
+            "Economical"
+        ]
+    },
+     {
+        "id": 3,
+        "material": "Plywood",
+        "description": "Engineered wood made of thin layers glued together.",
+        "image": "/images/plywood.jpg",
+        "features": [
+            "Strong",
+            "Moisture-resistant",
+            "Cost-effective"
+        ]
+    }
+]
